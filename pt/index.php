@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
   <head>
     <!-- Meta, title, CSS, favicons, etc. -->
     <meta charset="utf-8">
@@ -9,7 +9,7 @@
     <meta name="description" content="Queremos que você faça contribua com a evolução do tweekly.fm">
     <meta name="author" content="Scott Wilcox <scott@dor.ky>">
 
-    <title>Tweekly.fm &middot; Queremos que você faça contribua com a evolução do tweekly.fm</title>
+    <title>Tweekly.fm &middot; Contribua com a evolução do tweekly.fm</title>
 
     <!-- Bootstrap core CSS -->
     <link href="/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -36,8 +36,8 @@
         <!-- Intro -->
         <div class="row">
           <div class="col-sm-10 col-sm-offset-1">
-            <h1>Queremos que você faça contribua com a evolução do tweekly.fm.</h1>
-            <p class="lead">Precisamos da sua ajuda para continuar trabalhando e evoluindo o tweekly.fm. Nosso plano é levá-lo a um novo nível, oferecendo serviços e funcionalidades melhores para os nossos leais usuários.</p>
+            <h1>Contribua com a evolução do Tweekly.fm.</h1>
+            <p class="lead">Precisamos da sua ajuda para melhorar o Tweekly.fm. Nosso plano é elevá-lo a um novo nível, oferecendo serviços e funcionalidades melhores para os nossos usuários.</p>
           </div>
         </div> <!-- End intro -->
 
@@ -47,7 +47,7 @@
             <div class="asset">
               <span class="fa fa-twitter asset-ico-a"></span>
               <h3>Mais de 15 milhões de atualizações publicadas</h3>
-              <p>Desde Janeiro de 2011, nós publicamos mais de 20 milhões de atualizações nas redes sociais.</p>
+              <p>Desde Janeiro de 2011, publicamos mais de 20 milhões de atualizações nas redes sociais.</p>
             </div>
           </div>
           <div class="col-sm-4">
@@ -61,7 +61,7 @@
             <div class="asset">
               <span class="fa fa-rocket asset-ico-c"></span>
               <h3>Rumo ao usuário um milhão</h3>
-              <p>Recentemente passamos de mais de meio milhão de usuários registrados desde Janeiro de 2011.</p>
+              <p>Recentemente passamos de mais de meio milhão de usuários registrados.</p>
             </div>
           </div>
         </div> <!-- End assets -->
@@ -91,13 +91,13 @@
 				<!-- AddThis Button END -->
 
             <h1>Porque precisamos de ajuda?</h1>
-			<p>Em Dezembro de 2010 escrevi um script simples que pegava os artistas que eu mais ouvia durante a semana e publica no Twitter. Alguns anos e 15 milhões de usuários depois, Tweekly.fm publica diariamente para milhares de pessoas. Eu nunca sonhei que funcionários do Twitter, Google, Last.fm e outras de outras grandes empresas de tecnologia usariam meu pequeno projeto.</p>
+			<p>Em Dezembro de 2010 escrevi um simples script que pegava os artistas que eu mais ouvi durante a semana e publica no Twitter. Alguns anos e 15 milhões de usuários depois, Tweekly.fm publica milhares de tuítes diariamente. Nunca sonhei que funcionários do Twitter, Google, Last.fm e outras de outras grandes empresas de tecnologia usariam meu pequeno projeto.</p>
 
-			<p>Durante todo este tempo, o projeto tem sido desenvolvido e mantido exclusivamente por mim. Horas de desenvolvimento cresceram rapidamente para centenas e o suporte aos usuários me consome aproximadamente seis horas por semana. Estou desenvolvendo a nova versão do Tweekly.fm que inclui novos perfis, uma melhor experiência de uso e opção de publicar no Tumblr,Wordpress e outras redes sociais.</p>
+			<p>Durante todo este tempo, o projeto tem sido desenvolvido e mantido exclusivamente por mim. As horas de desenvolvimento cresceram rapidamente para centenas e o suporte aos usuários me consome aproximadamente seis horas por semana. Estou desenvolvendo a nova versão do Tweekly.fm que inclui novos perfis, uma melhor experiência de uso e opção de publicar no Tumblr, Wordpress e outras redes sociais.</p>
 
-			<p>Eu tenho um emprego em tempo integral e trabalho como freelancer para cobrir os custos de vida. Meu desejo é poder reduzir minhas outras obrigações para poder dedicar exclusivamente com o Tweekly.fm. </p>
+			<p>Tenho um emprego em tempo integral e trabalho como freelancer para cobrir os custos de vida. Meu desejo é poder reduzir minhas outras obrigações para poder dedicar-me exclusivamente ao Tweekly.fm. </p>
 
-			<p>Anteriormente, quando foi necessário ajuda com a hospedage, o próprio Last.fm ofereceu ajuda. Isto não é algo que uma empresa pode ajudar, apesar da minha empresa patrocinar o projeto para cobrir os custos de hospedagem. No futuro, eu espero que o Tweekly.fm possa ser auto-suficiente e, eventualmente, tenha receita. No momento, este é o meu foco.</p>
+			<p>Anteriormente, quando foi necessário ajuda com a hospedagem, o próprio Last.fm ofereceu ajuda. Isto não é algo que uma empresa pode ajudar, apesar da minha empresa patrocinar o projeto para cobrir os custos de hospedagem. No futuro, eu espero que o Tweekly.fm possa ser auto-suficiente e, eventualmente, tenha receita. No momento, este é o meu foco.</p>
 
 			<p>Estou escrevendo isto para pedir que você doe a quantia que julga correta para contribuir para o desenvolvimento do Tweekly.fm e ajudar no período de testes. Gostaria também de críticas e opiniões de como o novo Tweekly.fm deve ser.</p>
 
@@ -105,7 +105,7 @@
 
 			<p>Pretendo colocar uma lista de doadores no site. Caso não queira seu nome listado como doador, por favor me envie um e-mail. Como um brinde, todos os usuários que doarem terão contas premium para sempre na nova versão do Tweekly.fm.</p>
 
-			<p>Caso tenha algum ponto que queira discutir sobre o serviço, planos e ideias, por favor envie um email para <a href="mailto:support@tweekly.fm">support@tweekly.fm</a>.</p>
+			<p>Caso tenha algum ponto que queira discutir sobre o serviço (como, por exemplo, planos e ideias), por favor envie um email para <a href="mailto:support@tweekly.fm">support@tweekly.fm</a>.</p>
           </div>
         </div> <!-- End section header -->
 
@@ -113,7 +113,7 @@
         <div class="row" style="color: #747474 !important;">
           <div class="col-sm-6">
             <h3><i class="fa fa-tumblr"></i> Como posso ajudar?</h3>
-            <p>Se você tiver 30 segundos para responder o questionário, <a href="http://q.tweekly.fm/take_survey.php?x=NTQzMjI%3D&utm_source=help-fundraiser&utm_medium=website&utm_campaign=help.tweekly.fm">clique aqui</a>.</p>
+            <p>Caso tenha 30 segundos para responder o questionário, <a href="http://q.tweekly.fm/take_survey.php?x=NTQzMjI%3D&utm_source=help-fundraiser&utm_medium=website&utm_campaign=help.tweekly.fm">clique aqui</a>.</p>
             <p>As respostas deste questionário vão moldar o futuro do Tweekly.fm.</p>
           </div>
 
