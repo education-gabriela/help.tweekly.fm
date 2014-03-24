@@ -46,7 +46,7 @@
           <div class="col-sm-4">
             <div class="asset">
               <span class="fa fa-twitter asset-ico-a"></span>
-              <h3>Meer dan 15 miljoen updates geplaatst.</h3>
+              <h3>Meer dan 20 miljoen updates geplaatst.</h3>
               <p>Sinds januari 2011, hebben we meer dan 20 miljoen berichten op social networks geplaatst.</p>
             </div>
           </div>

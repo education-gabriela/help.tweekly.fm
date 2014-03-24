@@ -46,7 +46,7 @@
           <div class="col-sm-4">
             <div class="asset">
               <span class="fa fa-twitter asset-ico-a"></span>
-              <h3>15 million+ updates published</h3>
+              <h3>20 million+ updates published</h3>
               <p>Since January 2011, we've posted over 20 million updates to social networks.</p>
             </div>
           </div>
