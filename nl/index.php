@@ -1,34 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <!-- Meta, title, CSS, favicons, etc. -->
-    <meta charset="utf-8">
-    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Replace the description, keywords and author content with those that suit your product/ service -->
-    <meta name="description" content="We willen dat jij een deel wordt van de verbetering van tweekly.fm.">
-    <meta name="author" content="Scott Wilcox <scott@dor.ky>">
+  <head>
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Replace the description, keywords and author content with those that suit your product/ service -->
+    <meta name="description" content="We willen dat jij deel uitmaakt van de verbetering van tweekly.fm.">
+    <meta name="author" content="Scott Wilcox <scott@dor.ky>">
 
-    <title>Tweekly.fm &middot; We willen dat jij een deel wordt van de verbetering van tweekly.fm.</title>
+    <title>Tweekly.fm &middot;We willen dat jij deel uitmaakt van de verbetering van tweekly.fm.</title>
 
-    <!-- Bootstrap core CSS -->
-    <link href="/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Custom CSS -->
-    <link href="/assets/cust/css/cust.css?<?php echo time(); ?>" rel="stylesheet" media="screen">
+    <!-- Bootstrap core CSS -->
+    <link href="/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="/assets/cust/css/cust.css" rel="stylesheet" media="screen">
 
-    <!-- Font Awesome -->
-    <link rel="stylesheet" href="/assets/font-awesome/css/font-awesome.min.css">
-    <!-- Load this instead, on live site
-    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet"> -->
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="/assets/font-awesome/css/font-awesome.min.css">
+    <!-- Load this instead, on live site
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet"> -->
 
-    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script>
-      <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
-    <![endif]-->
-  </head>
-  <body id="home" class="cornflowerblue"> <!-- The "cornflowerblue" class adds a stylish blue color scheme -->
-  <?php require "../language.php"; ?>
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7/html5shiv.min.js"></script>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body id="home" class="cornflowerblue"> <!-- The "cornflowerblue" class adds a stylish blue color scheme -->
+  <?php require "../language.php"; ?>
     <!-- Jumbotron -->
     <div class="jumbotron">
       <div class="container">
@@ -36,8 +36,8 @@
         <!-- Intro -->
         <div class="row">
           <div class="col-sm-10 col-sm-offset-1">
-            <h1>We willen dat jij een deel wordt van de verbetering van tweekly.fm.</h1>
-            <p class="lead">We hebben jouw hulp nodig om tweekly.fm verder te verbeteren en om het volgende niveau te bereiken: het zorgen voor een verbeterde ervaring en voor nieuwe mogelijkheden voor al onze trouwe gebruikers.</p>
+            <h1>We willen dat jij deel uitmaakt van de verbetering van tweekly.fm.</h1>
+            <p class="lead">We hebben jouw hulp nodig om tweekly.fm verder te verbeteren en naar het volgende niveau te tillen: waardoor we al onze trouwe gebruikers een verbeterde ervaring en nieuwe mogelijkheden kunnen bieden.</p>
           </div>
         </div> <!-- End intro -->
 
@@ -47,21 +47,21 @@
             <div class="asset">
               <span class="fa fa-twitter asset-ico-a"></span>
               <h3>Meer dan 20 miljoen updates geplaatst.</h3>
-              <p>Sinds januari 2011, hebben we meer dan 20 miljoen berichten op social networks geplaatst.</p>
+              <p>Sinds januari 2011 hebben we meer dan 20 miljoen berichten op sociale netwerken geplaatst.</p>
             </div>
           </div>
           <div class="col-sm-4">
             <div class="asset">
               <span class="fa fa-sitemap asset-ico-b"></span>
               <h3>3.1 miljoen paginabezoeken</h3>
-              <p>Onze gebruikers en profielen hebben meer dan 3.1 miljoen paginabezoeken weten te genereren.</p>
+              <p>Onze gebruikers en profielen hebben meer dan 3,1 miljoen paginabezoeken gegenereerd.</p>
             </div>
           </div>
           <div class="col-sm-4">
             <div class="asset">
               <span class="fa fa-rocket asset-ico-c"></span>
               <h3>Onderweg naar 1 miljoen gebruikers.</h3>
-              <p>Niet zo lang geleden hebben we meer dan 500000 gebruikers gehaald sinds januari 2011.</p>
+              <p>Onlangs hebben we de kaap van 500.000 geregistreerde gebruikers (sinds januari 2011) overschreden.</p>
             </div>
           </div>
         </div> <!-- End assets -->
@@ -91,21 +91,21 @@
 				<!-- AddThis Button END -->
 
             <h1>Waarom hebben we hulp nodig?</h1>
-<p>In december 2010 schreef ik een simpel scriptje dat de artiesten die ik het meest had geluisterd die week nam en op Twitter plaatste. Een paar jaar en 15 miljoen updates later, post tweekly.fm voor duizenden mensen, elke dag. Ik heb nooit durven dromen dat werknemers van Twitter, Google, Last.fm en andere grote IT bedrijven, mijn kleine projectje zouden gebruiken.</p>
+<p>In december 2010 schreef ik een eenvoudig scriptje dat de artiesten die ik die week het meest had geluisterd verzamelde en op Twitter plaatste. Een paar jaar en 15 miljoen updates later post tweekly.fm dagelijks voor duizenden mensen. Ik had nooit durven dromen dat werknemers van Twitter, Google, Last.fm en andere grote IT-bedrijven mijn kleine projectje zouden gebruiken.</p>
 
-<p>De ontwikkeling van tweekly.fm is uitsluitend door mij gefinancierd, al sinds het begin van het project. Er zitten al ruim honderden uur in de ontwikkeling en ondersteuning kost ongeveer 6 uur per week. Ik ben de laatste tijd druk bezig geweest met de volgende versie van tweekly.fm, die ondersteuning biedt voor nieuwe profielen, het plaatsen van berichten op tumblr, wordpress en andere social networks, en voor een betere algehele ervaring voor onze huidige gebruikers.</p>
+<p>De ontwikkeling van tweekly.fm is uitsluitend door mij gefinancierd, al sinds het begin van het project. Er zitten al ruim honderden uur in de ontwikkeling en de ondersteuning kost ongeveer 6 uur per week. Ik ben de laatste tijd druk bezig geweest met de volgende versie van tweekly.fm, die ondersteuning biedt voor nieuwe profielen, het plaatsen van berichten op tumblr, wordpress en andere sociale netwerken, en voor een betere algehele ervaring voor onze huidige gebruikers zorgt.</p>
 
-<p>Ik heb een full time baan en daarnaast werk ik ook nog freelance om al mijn kosten te kunnen dekken. Het liefste zou ik even willen pauzeren met sommige delen van mijn werk en puur op tweekly.fm te focussen. </p>
+<p>Ik heb een fulltime baan en daarnaast werk ik ook nog freelance om al mijn kosten te kunnen dekken. Het liefste zou ik even willen pauzeren met sommige delen van mijn werk om puur op tweekly.fm te focussen. </p>
 
-<p>Tot nu toe, elke keer dat we hulp nodig hadden met hosting, hielpen de geweldige mensen van Last.fm ons. Dit is niet iets waar een extern bedrijf ons mee zou kunnen helpen, hoewel mijn eigen bedrijf tweekly.fm wel heeft gesponsord om hosting goed te kunnen regelen. Ik hoop dat in de toekomst, tweekly.fm zelfstandig kan blijven, en met de tijd winst zou kunnen maken. Op dat moment zou ik al mijn aandacht kunnen richten op tweekly.fm.</p>
+<p>Tot nu toe hielpen de geweldige mensen van Last.fm ons wanneer we hulp nodig hadden met hosting. Dit is niet iets waar een extern bedrijf ons mee zou kunnen helpen, hoewel mijn eigen bedrijf tweekly.fm wel heeft gesponsord om de hosting goed te kunnen regelen. Ik hoop dat tweekly.fm in de toekomst zelfvoorzienend kan worden en met de tijd winst kan maken. Op dat moment zou ik al mijn aandacht op tweekly.fm kunnen richten.</p>
 
-<p>Ik schrijf dit om te vragen voor donaties, maakt niet uit welk bedrag je doneert. De opbrengsten zullen gaan naar verdere ontwikkeling van tweekly.fm en om door deze test periode te komen. Ook wil ik graag jullie ideeën, meningen, opmerkingen en aanmerking over wat we verder gaan doen met tweekly.fm.</p>
+<p>Ik schrijf dit om jullie een donatie te vragen. Dat mag eender welk bedrag zijn waar jij je goed bij voelt. De opbrengsten moeten ons door deze testperiode helpen en gaan naar verdere ontwikkeling van tweekly.fm. Ik hoor ook graag jullie ideeën, meningen en opmerkingen over wat we verder gaan doen met tweekly.fm.</p>
 
 <p>Je kan een korte enquête invullen door de link onderaan deze pagina te volgen. Doneren kan met de verschillende knoppen onderaan deze pagina.</p>
 
-<p>Ik wil graag een lijst met alle donoren op de site plaatsen, als je dat liever niet hebt, stuur me een email. Als een bedankje en een bonus, krijgen <strong>alle donoren een lifetime account in de nieuwe versie van tweekly.fm.</strong>.</p>
+<p>Ik wil graag een lijst met alle donoren op de site plaatsen. Stuur me een mailtje als je liever niet op deze pagina vermeld wordt. Als een bedankje en een bonus, krijgen <strong>alle donoren een lifetime account in de nieuwe versie van tweekly.fm.</strong>.</p>
 
-<p>Als er iets is waar je over wilt praten, of als je andere plannen of ideeën hebt, dan kan je naar dit adres emailen:  <a href="mailto:support@tweekly.fm">support@tweekly.fm</a>.</p>
+<p>Als er iets is waar je over wilt praten, of als je andere plannen of ideeën hebt, dan kan je naar dit adres mailen:  <a href="mailto:support@tweekly.fm">support@tweekly.fm</a>.</p>
           </div>
         </div> <!-- End section header -->
 

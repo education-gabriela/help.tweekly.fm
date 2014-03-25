@@ -14,7 +14,7 @@
     <!-- Bootstrap core CSS -->
     <link href="/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom CSS -->
-    <link href="/assets/cust/css/cust.css?<?php echo time(); ?>" rel="stylesheet" media="screen">
+    <link href="/assets/cust/css/cust.css" rel="stylesheet" media="screen">
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="/assets/font-awesome/css/font-awesome.min.css">
