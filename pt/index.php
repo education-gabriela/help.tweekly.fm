@@ -6,7 +6,7 @@
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Replace the description, keywords and author content with those that suit your product/ service -->
-    <meta name="description" content="Queremos que você faça contribua com a evolução do tweekly.fm">
+    <meta name="description" content="Queremos que você contribua com a evolução do tweekly.fm">
     <meta name="author" content="Scott Wilcox <scott@dor.ky>">
 
     <title>Tweekly.fm &middot; Contribua com a evolução do tweekly.fm</title>
