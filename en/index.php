@@ -95,7 +95,7 @@
 
 <p>The entire time the project has been running the development has been funded exclusively by me. Development time would easily run in to the hundreds of hours and support takes up around six hours a week on average. I've recently been writing the next version of tweekly.fm to include new profiles, publishing to tumblr/wordpress and other social networks and a better experience for our current users.</p>
 
-<p>I have a full time job and also work freelance to cover living and the costs associated with life. I'd like to be able to take a break from certain parts of work and be able to work solely on tweekly.fm. </p>
+<p>I have a full time job and previouly worked freelance to cover living and the costs associated with life. I'd like to be able to take a break from certain parts of work and be able to work solely on tweekly.fm. </p>
 
 <p>Previously, when we've needed help with hosting, kind folks at Last.fm have stepped in. This isn't something that an external company can help us with although the service has been sponsored by my own company for hosting effectively. In the future, I hope that tweekly.fm can be self sustainable and eventually turn a profit. At that point, I could solely focus on it.</p>
 
