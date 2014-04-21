@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
   <head>
     <!-- Meta, title, CSS, favicons, etc. -->
     <meta charset="utf-8">
@@ -15,6 +15,8 @@
     <link href="/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom CSS -->
     <link href="/assets/cust/css/cust.css" rel="stylesheet" media="screen">
+    <!-- Flag Icon CSS -->
+    <link href="../assets/flag-icon-css/css/flag-icon.min.css" rel="stylesheet">
 
     <!-- Font Awesome -->
     <link rel="stylesheet" href="/assets/font-awesome/css/font-awesome.min.css">
